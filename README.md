@@ -1,4 +1,4 @@
-# Experiment 4
+# Experiment 6
 
 ## Implementation of Addressing Modes using Shift and Rotate Operations in Logisim
 
